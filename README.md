@@ -27,3 +27,6 @@ GIVEN a Node.js application using Sequelize and Passport
 WHEN I follow the walkthrough
 THEN I understand the codebase
 ```
+
+GOOGLE DOC
+https://docs.google.com/document/d/1hOYtSpy0v8fnbuGtbo_dsgaMLhxUDTRhoYN1iZSv9vo/edit?usp=sharing
